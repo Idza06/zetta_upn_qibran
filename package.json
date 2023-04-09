@@ -1,5 +1,5 @@
 {
-  "name": "zetta_upn_juan_azhar_adviseta_setiawan",
+  "name": "zetta_upn_qibran_idza",
   "version": "1.0.0",
   "description": "",
   "main": "function.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Trois25/zetta_upn_Juan_Azhar_Adviseta_Setiawan.git"
+    "url": "git+https://github.com/Trois25/zetta_upn_qibran_idza.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Trois25/zetta_upn_Juan_Azhar_Adviseta_Setiawan/issues"
+    "url": "https://github.com/Trois25/zetta_upn_qibran_idza/issues"
   },
-  "homepage": "https://github.com/Trois25/zetta_upn_Juan_Azhar_Adviseta_Setiawan#readme",
+  "homepage": "https://github.com/Trois25/zetta_upn_qibran_idzan#readme",
   "dependencies": {
     "dot": "^1.1.3",
     "dotenv": "^16.0.3",
